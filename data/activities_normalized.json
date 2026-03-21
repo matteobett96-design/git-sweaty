@@ -15494,5 +15494,31 @@
     "start_date_local": "2026-03-19T18:04:23Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 12493.4,
+    "elevation_gain": 529.0,
+    "id": "17794011133",
+    "moving_time": 2615.0,
+    "name": "Pedalata serale",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-20T18:05:38Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 10136.4,
+    "elevation_gain": 60.1,
+    "id": "17803935043",
+    "moving_time": 3269.0,
+    "name": "Corsa pomeridiana",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-21T14:32:02Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
