@@ -15520,5 +15520,18 @@
     "start_date_local": "2026-03-21T14:32:02Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 21132.1,
+    "elevation_gain": 119.9,
+    "id": "17815054773",
+    "moving_time": 6841.0,
+    "name": "Corsa mattutina",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-22T10:40:10Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
