@@ -10808,6 +10808,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17885621397",
       "year": 2026
+    },
+    {
+      "date": "2026-03-29",
+      "hour": 10,
+      "name": "Corsa mattutina",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17899579648",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21102,6 +21111,15 @@
           "distance": 8105.4,
           "elevation_gain": 48.0,
           "moving_time": 2441.0
+        },
+        "2026-03-29": {
+          "activity_ids": [
+            "17899579648"
+          ],
+          "count": 1,
+          "distance": 14089.5,
+          "elevation_gain": 68.3,
+          "moving_time": 4591.0
         }
       },
       "Walk": {
@@ -21461,7 +21479,7 @@
       }
     }
   },
-  "generated_at": "2026-03-28T15:59:00.829066+00:00",
+  "generated_at": "2026-03-29T16:03:11.247450+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/60394906",
   "repo": "matteobett96-design/git-sweaty",
