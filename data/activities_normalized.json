@@ -15704,6 +15704,19 @@
     "year": 2026
   },
   {
+    "date": "2026-04-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17978597957",
+    "moving_time": 3666.0,
+    "name": "Allenamento con i pesi serale",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-03T18:22:41Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
     "date": "2026-04-04",
     "distance": 22012.0,
     "elevation_gain": 1232.3,
@@ -15714,6 +15727,19 @@
     "raw_type": "Walk",
     "start_date_local": "2026-04-04T09:43:48Z",
     "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 10018.9,
+    "elevation_gain": 61.9,
+    "id": "17986209298",
+    "moving_time": 3226.0,
+    "name": "Corsa dell'ora di pranzo",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-05T11:06:37Z",
+    "type": "Run",
     "year": 2026
   }
 ]
