@@ -10898,6 +10898,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17986209298",
       "year": 2026
+    },
+    {
+      "date": "2026-04-06",
+      "hour": 10,
+      "name": "Camminata mattutina",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18004715925",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-06",
+      "hour": 19,
+      "name": "Camminata serale",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18004715980",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21302,6 +21320,16 @@
           "distance": 22012.0,
           "elevation_gain": 1232.3,
           "moving_time": 19285.0
+        },
+        "2026-04-06": {
+          "activity_ids": [
+            "18004715925",
+            "18004715980"
+          ],
+          "count": 2,
+          "distance": 8503.3,
+          "elevation_gain": 418.7,
+          "moving_time": 6168.0
         }
       },
       "WeightTraining": {
@@ -21641,7 +21669,7 @@
       }
     }
   },
-  "generated_at": "2026-04-06T17:32:53.308813+00:00",
+  "generated_at": "2026-04-07T18:10:53.089354+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/60394906",
   "repo": "matteobett96-design/git-sweaty",
