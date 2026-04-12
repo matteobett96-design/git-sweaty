@@ -10934,6 +10934,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18029728060",
       "year": 2026
+    },
+    {
+      "date": "2026-04-09",
+      "hour": 18,
+      "name": "Allenamento con i pesi serale",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18069526158",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 10,
+      "name": "Corsa mattutina",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18079536060",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21273,6 +21291,15 @@
           "distance": 10060.5,
           "elevation_gain": 63.3,
           "moving_time": 3170.0
+        },
+        "2026-04-12": {
+          "activity_ids": [
+            "18079536060"
+          ],
+          "count": 1,
+          "distance": 43014.6,
+          "elevation_gain": 175.1,
+          "moving_time": 14323.0
         }
       },
       "Walk": {
@@ -21701,11 +21728,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4800.0
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "18069526158"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5082.0
         }
       }
     }
   },
-  "generated_at": "2026-04-11T16:02:12.411952+00:00",
+  "generated_at": "2026-04-12T15:33:19.499244+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/60394906",
   "repo": "matteobett96-design/git-sweaty",
