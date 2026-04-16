@@ -10961,6 +10961,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18114636301",
       "year": 2026
+    },
+    {
+      "date": "2026-04-15",
+      "hour": 18,
+      "name": "HIIT serale",
+      "subtype": "HighIntensityIntervalTraining",
+      "type": "HighIntensityIntervalTraining",
+      "url": "https://www.strava.com/activities/18127484624",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20954,6 +20963,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3733.0
+        },
+        "2026-04-15": {
+          "activity_ids": [
+            "18127484624"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3611.0
         }
       },
       "Ride": {
@@ -21759,7 +21777,7 @@
       }
     }
   },
-  "generated_at": "2026-04-15T16:03:03.081630+00:00",
+  "generated_at": "2026-04-16T16:20:06.667886+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/60394906",
   "repo": "matteobett96-design/git-sweaty",

@@ -15832,5 +15832,18 @@
     "start_date_local": "2026-04-14T16:50:59Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18127484624",
+    "moving_time": 3611.0,
+    "name": "HIIT serale",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-04-15T18:06:29Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]
