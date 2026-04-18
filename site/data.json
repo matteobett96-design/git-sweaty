@@ -10979,6 +10979,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18140716587",
       "year": 2026
+    },
+    {
+      "date": "2026-04-17",
+      "hour": 18,
+      "name": "Corsa serale",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18147456899",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21336,6 +21345,15 @@
           "distance": 43014.6,
           "elevation_gain": 175.1,
           "moving_time": 14323.0
+        },
+        "2026-04-17": {
+          "activity_ids": [
+            "18147456899"
+          ],
+          "count": 1,
+          "distance": 8422.5,
+          "elevation_gain": 247.4,
+          "moving_time": 2827.0
         }
       },
       "Walk": {
@@ -21795,7 +21813,7 @@
       }
     }
   },
-  "generated_at": "2026-04-17T15:57:15.447854+00:00",
+  "generated_at": "2026-04-18T15:34:49.334860+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/60394906",
   "repo": "matteobett96-design/git-sweaty",

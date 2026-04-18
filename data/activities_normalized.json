@@ -15858,5 +15858,18 @@
     "start_date_local": "2026-04-16T18:06:00Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 8422.5,
+    "elevation_gain": 247.4,
+    "id": "18147456899",
+    "moving_time": 2827.0,
+    "name": "Corsa serale",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-17T18:07:36Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
