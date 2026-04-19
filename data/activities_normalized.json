@@ -15871,5 +15871,18 @@
     "start_date_local": "2026-04-17T18:07:36Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 20024.1,
+    "elevation_gain": 1187.3,
+    "id": "18173292373",
+    "moving_time": 18402.0,
+    "name": "Escursione mattutina",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-04-19T09:06:43Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]

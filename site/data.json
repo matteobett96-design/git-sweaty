@@ -10988,6 +10988,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18147456899",
       "year": 2026
+    },
+    {
+      "date": "2026-04-19",
+      "hour": 9,
+      "name": "Escursione mattutina",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18173292373",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20992,6 +21001,17 @@
           "moving_time": 3611.0
         }
       },
+      "Hike": {
+        "2026-04-19": {
+          "activity_ids": [
+            "18173292373"
+          ],
+          "count": 1,
+          "distance": 20024.1,
+          "elevation_gain": 1187.3,
+          "moving_time": 18402.0
+        }
+      },
       "Ride": {
         "2026-03-18": {
           "activity_ids": [
@@ -21813,7 +21833,7 @@
       }
     }
   },
-  "generated_at": "2026-04-18T15:34:49.334860+00:00",
+  "generated_at": "2026-04-19T15:35:02.990049+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/60394906",
   "repo": "matteobett96-design/git-sweaty",
