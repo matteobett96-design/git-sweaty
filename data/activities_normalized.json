@@ -15884,5 +15884,31 @@
     "start_date_local": "2026-04-19T09:06:43Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18207792857",
+    "moving_time": 4926.0,
+    "name": "Allenamento con i pesi serale",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-20T18:01:15Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18207792773",
+    "moving_time": 5069.0,
+    "name": "Allenamento con i pesi serale",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-21T18:09:09Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
