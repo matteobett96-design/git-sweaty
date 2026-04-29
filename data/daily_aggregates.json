@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T16:49:15.744885+00:00",
+  "generated_at": "2026-04-29T16:26:30.519405+00:00",
   "years": {
     "2020": {
       "Hike": {
@@ -10411,6 +10411,15 @@
           "distance": 14020.6,
           "elevation_gain": 89.2,
           "moving_time": 4350.0
+        },
+        "2026-04-28": {
+          "activity_ids": [
+            "18295313397"
+          ],
+          "count": 1,
+          "distance": 8277.4,
+          "elevation_gain": 201.9,
+          "moving_time": 2337.0
         }
       },
       "Walk": {
@@ -10893,6 +10902,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3596.0
+        },
+        "2026-04-27": {
+          "activity_ids": [
+            "18295313758"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4790.0
         }
       }
     }
