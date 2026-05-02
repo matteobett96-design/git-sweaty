@@ -11096,6 +11096,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18321794819",
       "year": 2026
+    },
+    {
+      "date": "2026-05-01",
+      "hour": 10,
+      "name": "Camminata mattutina",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18338076373",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-01",
+      "hour": 17,
+      "name": "Camminata pomeridiana",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18338076641",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 10,
+      "name": "Corsa mattutina",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18343152982",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21527,6 +21554,15 @@
           "distance": 8277.4,
           "elevation_gain": 201.9,
           "moving_time": 2337.0
+        },
+        "2026-05-02": {
+          "activity_ids": [
+            "18343152982"
+          ],
+          "count": 1,
+          "distance": 10048.4,
+          "elevation_gain": 69.6,
+          "moving_time": 2630.0
         }
       },
       "Walk": {
@@ -21611,6 +21647,16 @@
           "distance": 8503.3,
           "elevation_gain": 418.7,
           "moving_time": 6168.0
+        },
+        "2026-05-01": {
+          "activity_ids": [
+            "18338076373",
+            "18338076641"
+          ],
+          "count": 2,
+          "distance": 11605.7,
+          "elevation_gain": 524.6,
+          "moving_time": 9065.0
         }
       },
       "WeightTraining": {
@@ -22031,7 +22077,7 @@
       }
     }
   },
-  "generated_at": "2026-05-01T15:54:40.252181+00:00",
+  "generated_at": "2026-05-02T15:42:29.611156+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/60394906",
   "repo": "matteobett96-design/git-sweaty",
