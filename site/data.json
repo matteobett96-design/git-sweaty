@@ -11123,6 +11123,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18343152982",
       "year": 2026
+    },
+    {
+      "date": "2026-05-03",
+      "hour": 15,
+      "name": "Pedalata pomeridiana",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18363450511",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21192,6 +21201,15 @@
           "distance": 22814.4,
           "elevation_gain": 828.0,
           "moving_time": 4362.0
+        },
+        "2026-05-03": {
+          "activity_ids": [
+            "18363450511"
+          ],
+          "count": 1,
+          "distance": 50835.3,
+          "elevation_gain": 424.0,
+          "moving_time": 7866.0
         }
       },
       "Run": {
@@ -22077,7 +22095,7 @@
       }
     }
   },
-  "generated_at": "2026-05-03T15:43:28.395655+00:00",
+  "generated_at": "2026-05-04T16:29:10.077108+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/60394906",
   "repo": "matteobett96-design/git-sweaty",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T15:43:28.376529+00:00",
+  "generated_at": "2026-05-04T16:29:10.057626+00:00",
   "years": {
     "2020": {
       "Hike": {
@@ -10067,6 +10067,15 @@
           "distance": 22814.4,
           "elevation_gain": 828.0,
           "moving_time": 4362.0
+        },
+        "2026-05-03": {
+          "activity_ids": [
+            "18363450511"
+          ],
+          "count": 1,
+          "distance": 50835.3,
+          "elevation_gain": 424.0,
+          "moving_time": 7866.0
         }
       },
       "Run": {
