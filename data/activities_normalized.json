@@ -16079,5 +16079,31 @@
     "start_date_local": "2026-05-03T15:09:44Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18395464082",
+    "moving_time": 4615.0,
+    "name": "Allenamento con i pesi serale",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-04T18:25:25Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18395464040",
+    "moving_time": 4821.0,
+    "name": "Allenamento con i pesi serale",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-05T18:15:48Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
