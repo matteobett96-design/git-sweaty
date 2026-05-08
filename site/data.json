@@ -11150,6 +11150,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18395464040",
       "year": 2026
+    },
+    {
+      "date": "2026-05-07",
+      "hour": 17,
+      "name": "Corsa pomeridiana",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18416481440",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21599,6 +21608,15 @@
           "distance": 10048.4,
           "elevation_gain": 69.6,
           "moving_time": 2630.0
+        },
+        "2026-05-07": {
+          "activity_ids": [
+            "18416481440"
+          ],
+          "count": 1,
+          "distance": 12004.2,
+          "elevation_gain": 60.9,
+          "moving_time": 3184.0
         }
       },
       "Walk": {
@@ -22131,7 +22149,7 @@
       }
     }
   },
-  "generated_at": "2026-05-07T16:47:22.912442+00:00",
+  "generated_at": "2026-05-08T16:11:39.369975+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/60394906",
   "repo": "matteobett96-design/git-sweaty",
