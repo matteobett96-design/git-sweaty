@@ -16118,5 +16118,31 @@
     "start_date_local": "2026-05-07T17:47:07Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 25680.7,
+    "elevation_gain": 517.0,
+    "id": "18428159469",
+    "moving_time": 3774.0,
+    "name": "Pedalata serale",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-08T18:09:37Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 12046.3,
+    "elevation_gain": 75.3,
+    "id": "18436082916",
+    "moving_time": 3615.0,
+    "name": "Corsa dell'ora di pranzo",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-09T11:16:56Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
