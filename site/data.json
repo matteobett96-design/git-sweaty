@@ -11177,6 +11177,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18436082916",
       "year": 2026
+    },
+    {
+      "date": "2026-05-10",
+      "hour": 16,
+      "name": "HIIT pomeridiano",
+      "subtype": "HighIntensityIntervalTraining",
+      "type": "HighIntensityIntervalTraining",
+      "url": "https://www.strava.com/activities/18479446475",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-11",
+      "hour": 18,
+      "name": "Allenamento con i pesi serale",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18479446137",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 17,
+      "name": "Corsa pomeridiana",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18479446069",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21179,6 +21206,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3611.0
+        },
+        "2026-05-10": {
+          "activity_ids": [
+            "18479446475"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4877.0
         }
       },
       "Hike": {
@@ -21653,6 +21689,15 @@
           "distance": 12046.3,
           "elevation_gain": 75.3,
           "moving_time": 3615.0
+        },
+        "2026-05-12": {
+          "activity_ids": [
+            "18479446069"
+          ],
+          "count": 1,
+          "distance": 12025.1,
+          "elevation_gain": 63.3,
+          "moving_time": 3303.0
         }
       },
       "Walk": {
@@ -22181,11 +22226,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4821.0
+        },
+        "2026-05-11": {
+          "activity_ids": [
+            "18479446137"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5408.0
         }
       }
     }
   },
-  "generated_at": "2026-05-11T17:22:41.429910+00:00",
+  "generated_at": "2026-05-12T17:08:02.586276+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/60394906",
   "repo": "matteobett96-design/git-sweaty",
