@@ -16183,5 +16183,18 @@
     "start_date_local": "2026-05-12T17:46:55Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 22242.7,
+    "elevation_gain": 586.0,
+    "id": "18493218555",
+    "moving_time": 3331.0,
+    "name": "Pedalata pomeridiana",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-13T17:59:34Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
