@@ -16196,5 +16196,44 @@
     "start_date_local": "2026-05-13T17:59:34Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18520183531",
+    "moving_time": 5466.0,
+    "name": "Allenamento con i pesi serale",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-14T18:13:22Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18520183327",
+    "moving_time": 4841.0,
+    "name": "Allenamento con i pesi serale",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-15T18:11:25Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 28666.8,
+    "elevation_gain": 1004.0,
+    "id": "18527746202",
+    "moving_time": 7115.0,
+    "name": "Pedalata mattutina",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-16T08:53:38Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
