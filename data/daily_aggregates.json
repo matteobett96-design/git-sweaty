@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T17:06:11.540940+00:00",
+  "generated_at": "2026-05-23T16:00:08.560755+00:00",
   "years": {
     "2020": {
       "Hike": {
@@ -10020,6 +10020,17 @@
           "distance": 20024.1,
           "elevation_gain": 1187.3,
           "moving_time": 18402.0
+        }
+      },
+      "MountainBikeRide": {
+        "2026-05-23": {
+          "activity_ids": [
+            "18619875328"
+          ],
+          "count": 1,
+          "distance": 21943.2,
+          "elevation_gain": 696.5,
+          "moving_time": 6427.0
         }
       },
       "Ride": {
