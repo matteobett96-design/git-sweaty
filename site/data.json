@@ -11330,6 +11330,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18677498115",
       "year": 2026
+    },
+    {
+      "date": "2026-05-28",
+      "hour": 18,
+      "name": "Evening Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18716972331",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-29",
+      "hour": 18,
+      "name": "Evening Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18716971761",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 6,
+      "name": "Morning Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18716973691",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21352,6 +21379,15 @@
           "distance": 20024.1,
           "elevation_gain": 1187.3,
           "moving_time": 18402.0
+        },
+        "2026-05-30": {
+          "activity_ids": [
+            "18716973691"
+          ],
+          "count": 1,
+          "distance": 30000.9,
+          "elevation_gain": 2041.0,
+          "moving_time": 30768.0
         }
       },
       "MountainBikeRide": {
@@ -22489,11 +22525,29 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5038.0
+        },
+        "2026-05-28": {
+          "activity_ids": [
+            "18716972331"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4772.0
+        },
+        "2026-05-29": {
+          "activity_ids": [
+            "18716971761"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5486.0
         }
       }
     }
   },
-  "generated_at": "2026-05-29T18:11:03.463063+00:00",
+  "generated_at": "2026-05-30T16:02:15.001706+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/60394906",
   "repo": "matteobett96-design/git-sweaty",
