@@ -16419,6 +16419,32 @@
     "year": 2026
   },
   {
+    "date": "2026-06-01",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18779506390",
+    "moving_time": 5522.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-01T16:43:37Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18779506334",
+    "moving_time": 4205.0,
+    "name": "Afternoon HIIT",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-06-02T16:17:52Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
+  },
+  {
     "date": "2026-06-03",
     "distance": 26170.4,
     "elevation_gain": 533.0,
@@ -16428,6 +16454,19 @@
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-06-03T18:16:02Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 26102.3,
+    "elevation_gain": 532.0,
+    "id": "18779477757",
+    "moving_time": 3887.0,
+    "name": "Pedalata serale",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-03T18:16:03Z",
     "type": "Ride",
     "year": 2026
   }
