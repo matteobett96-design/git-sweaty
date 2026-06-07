@@ -11411,6 +11411,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18787741876",
       "year": 2026
+    },
+    {
+      "date": "2026-06-05",
+      "hour": 18,
+      "name": "Evening Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18821143845",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-06",
+      "hour": 11,
+      "name": "Lunch Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18821143788",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -22034,6 +22052,15 @@
           "distance": 12071.1,
           "elevation_gain": 51.0,
           "moving_time": 3515.0
+        },
+        "2026-06-06": {
+          "activity_ids": [
+            "18821143788"
+          ],
+          "count": 1,
+          "distance": 12022.2,
+          "elevation_gain": 57.0,
+          "moving_time": 3336.0
         }
       },
       "Walk": {
@@ -22643,11 +22670,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5522.0
+        },
+        "2026-06-05": {
+          "activity_ids": [
+            "18821143845"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5062.0
         }
       }
     }
   },
-  "generated_at": "2026-06-06T16:04:26.095239+00:00",
+  "generated_at": "2026-06-07T16:11:39.616231+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/60394906",
   "repo": "matteobett96-design/git-sweaty",
