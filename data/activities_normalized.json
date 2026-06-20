@@ -16612,5 +16612,31 @@
     "start_date_local": "2026-06-18T18:22:29Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18987643777",
+    "moving_time": 5512.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-19T18:03:58Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 20024.2,
+    "elevation_gain": 204.0,
+    "id": "18995360792",
+    "moving_time": 5724.0,
+    "name": "Corsa dell'ora di pranzo",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-20T11:29:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
