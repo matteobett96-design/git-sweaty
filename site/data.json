@@ -11519,6 +11519,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18995360792",
       "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 9,
+      "name": "Morning Mountain Bike Ride",
+      "subtype": "MountainBikeRide",
+      "type": "MountainBikeRide",
+      "url": "https://www.strava.com/activities/19009064417",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21570,6 +21579,15 @@
           "distance": 21943.2,
           "elevation_gain": 696.5,
           "moving_time": 6427.0
+        },
+        "2026-06-21": {
+          "activity_ids": [
+            "19009064417"
+          ],
+          "count": 1,
+          "distance": 43878.9,
+          "elevation_gain": 4413.0,
+          "moving_time": 10528.0
         }
       },
       "Ride": {
@@ -22863,7 +22881,7 @@
       }
     }
   },
-  "generated_at": "2026-06-20T16:14:56.445355+00:00",
+  "generated_at": "2026-06-21T16:27:41.271974+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/60394906",
   "repo": "matteobett96-design/git-sweaty",
