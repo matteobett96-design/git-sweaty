@@ -16768,5 +16768,31 @@
     "start_date_local": "2026-07-02T18:09:40Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19167565611",
+    "moving_time": 4879.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-03T18:17:41Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 16034.6,
+    "elevation_gain": 50.0,
+    "id": "19173179802",
+    "moving_time": 4425.0,
+    "name": "Corsa mattutina",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-04T10:10:38Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
