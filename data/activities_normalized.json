@@ -16885,5 +16885,44 @@
     "start_date_local": "2026-07-14T18:09:41Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 12079.3,
+    "elevation_gain": 277.0,
+    "id": "19358792866",
+    "moving_time": 3762.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-16T19:34:03Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 25819.6,
+    "elevation_gain": 513.0,
+    "id": "19352534832",
+    "moving_time": 3890.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-17T18:19:40Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 12029.7,
+    "elevation_gain": 49.0,
+    "id": "19361150118",
+    "moving_time": 3350.0,
+    "name": "Corsa dell'ora di pranzo",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-18T11:59:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
