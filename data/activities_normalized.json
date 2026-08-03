@@ -17069,6 +17069,19 @@
     "year": 2026
   },
   {
+    "date": "2026-07-31",
+    "distance": 12200.8,
+    "elevation_gain": 536.9,
+    "id": "19580869331",
+    "moving_time": 2643.0,
+    "name": "Pedalata serale",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-31T18:25:17Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
     "date": "2026-08-01",
     "distance": 63284.3,
     "elevation_gain": 1379.0,
