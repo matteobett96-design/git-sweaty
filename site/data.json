@@ -11852,6 +11852,33 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19603864918",
       "year": 2026
+    },
+    {
+      "date": "2026-08-05",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19615947043",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-06",
+      "hour": 17,
+      "name": "Allenamento con i pesi pomeridiano",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19630609518",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-07",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19642450227",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -22168,6 +22195,24 @@
           "distance": 22780.1,
           "elevation_gain": 812.0,
           "moving_time": 4557.0
+        },
+        "2026-08-05": {
+          "activity_ids": [
+            "19615947043"
+          ],
+          "count": 1,
+          "distance": 26117.1,
+          "elevation_gain": 511.0,
+          "moving_time": 3995.0
+        },
+        "2026-08-07": {
+          "activity_ids": [
+            "19642450227"
+          ],
+          "count": 1,
+          "distance": 12502.6,
+          "elevation_gain": 506.0,
+          "moving_time": 2728.0
         }
       },
       "Run": {
@@ -23517,11 +23562,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5327.0
+        },
+        "2026-08-06": {
+          "activity_ids": [
+            "19630609518"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5339.0
         }
       }
     }
   },
-  "generated_at": "2026-08-05T16:28:41.057993+00:00",
+  "generated_at": "2026-08-07T15:52:13.309284+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/60394906",
   "repo": "matteobett96-design/git-sweaty",

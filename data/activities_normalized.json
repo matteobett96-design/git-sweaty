@@ -17119,5 +17119,44 @@
     "start_date_local": "2026-08-04T18:08:31Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 26117.1,
+    "elevation_gain": 511.0,
+    "id": "19615947043",
+    "moving_time": 3995.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-05T18:07:53Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19630609518",
+    "moving_time": 5339.0,
+    "name": "Allenamento con i pesi pomeridiano",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-06T17:33:08Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 12502.6,
+    "elevation_gain": 506.0,
+    "id": "19642450227",
+    "moving_time": 2728.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-07T16:55:00Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
