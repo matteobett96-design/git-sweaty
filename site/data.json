@@ -11897,6 +11897,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19742021733",
       "year": 2026
+    },
+    {
+      "date": "2026-08-17",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19775857540",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-17",
+      "hour": 8,
+      "name": "Corsa mattutina",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19776373458",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -22800,6 +22818,16 @@
           "distance": 8138.9,
           "elevation_gain": 0.0,
           "moving_time": 2892.0
+        },
+        "2026-08-17": {
+          "activity_ids": [
+            "19775857540",
+            "19776373458"
+          ],
+          "count": 2,
+          "distance": 23985.8,
+          "elevation_gain": 118.0,
+          "moving_time": 7082.0
         }
       },
       "Walk": {
@@ -23611,7 +23639,7 @@
       }
     }
   },
-  "generated_at": "2026-08-16T15:17:10.484793+00:00",
+  "generated_at": "2026-08-17T15:20:46.396058+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/60394906",
   "repo": "matteobett96-design/git-sweaty",
