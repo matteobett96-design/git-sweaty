@@ -17301,5 +17301,31 @@
     "start_date_local": "2026-08-24T14:08:04Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19899266512",
+    "moving_time": 27827.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-25T15:26:53Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 12015.3,
+    "elevation_gain": 55.0,
+    "id": "19909739488",
+    "moving_time": 3436.0,
+    "name": "Corsa pomeridiana",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-26T16:33:51Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
