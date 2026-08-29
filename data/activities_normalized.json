@@ -17353,5 +17353,31 @@
     "start_date_local": "2026-08-28T16:02:51Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 37209.3,
+    "elevation_gain": 595.0,
+    "id": "19946275354",
+    "moving_time": 5842.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-29T08:55:59Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 4385.2,
+    "elevation_gain": 361.0,
+    "id": "19947989633",
+    "moving_time": 2176.0,
+    "name": "Camminata dell'ora di pranzo",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-29T12:09:30Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
