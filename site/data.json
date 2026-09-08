@@ -12086,6 +12086,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20070113631",
       "year": 2026
+    },
+    {
+      "date": "2026-09-07",
+      "hour": 18,
+      "name": "Pedalata serale",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20080014360",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -22501,6 +22510,15 @@
           "distance": 42795.1,
           "elevation_gain": 732.3,
           "moving_time": 6620.0
+        },
+        "2026-09-07": {
+          "activity_ids": [
+            "20080014360"
+          ],
+          "count": 1,
+          "distance": 22356.1,
+          "elevation_gain": 824.1,
+          "moving_time": 4360.0
         }
       },
       "Run": {
@@ -23981,7 +23999,7 @@
       }
     }
   },
-  "generated_at": "2026-09-07T18:58:19.421838+00:00",
+  "generated_at": "2026-09-08T18:16:15.178138+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/60394906",
   "repo": "matteobett96-design/git-sweaty",
