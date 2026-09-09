@@ -17470,5 +17470,31 @@
     "start_date_local": "2026-09-07T18:10:42Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20093280337",
+    "moving_time": 4837.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-08T18:12:09Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20106718411",
+    "moving_time": 3897.0,
+    "name": "HIIT serale",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-09-09T18:07:32Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]
