@@ -17496,5 +17496,31 @@
     "start_date_local": "2026-09-09T18:07:32Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20121541222",
+    "moving_time": 5374.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-10T18:05:53Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-11",
+    "distance": 12041.9,
+    "elevation_gain": 283.0,
+    "id": "20133055748",
+    "moving_time": 3803.0,
+    "name": "Corsa serale",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-11T18:15:17Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
