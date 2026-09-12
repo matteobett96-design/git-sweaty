@@ -17522,5 +17522,18 @@
     "start_date_local": "2026-09-11T18:15:17Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 17630.0,
+    "elevation_gain": 678.0,
+    "id": "20141128327",
+    "moving_time": 5570.0,
+    "name": "Sessione di mountain biking mattutina",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-09-12T08:51:37Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
