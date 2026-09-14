@@ -17535,5 +17535,18 @@
     "start_date_local": "2026-09-12T08:51:37Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-14",
+    "distance": 26080.1,
+    "elevation_gain": 517.2,
+    "id": "20174363773",
+    "moving_time": 4044.0,
+    "name": "Pedalata serale",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-14T18:06:34Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

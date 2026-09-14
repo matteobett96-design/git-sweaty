@@ -12140,6 +12140,15 @@
       "type": "MountainBikeRide",
       "url": "https://www.strava.com/activities/20141128327",
       "year": 2026
+    },
+    {
+      "date": "2026-09-14",
+      "hour": 18,
+      "name": "Pedalata serale",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20174363773",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -22582,6 +22591,15 @@
           "distance": 22356.1,
           "elevation_gain": 824.1,
           "moving_time": 4360.0
+        },
+        "2026-09-14": {
+          "activity_ids": [
+            "20174363773"
+          ],
+          "count": 1,
+          "distance": 26080.1,
+          "elevation_gain": 517.2,
+          "moving_time": 4044.0
         }
       },
       "Run": {
@@ -24089,7 +24107,7 @@
       }
     }
   },
-  "generated_at": "2026-09-13T17:53:35.095781+00:00",
+  "generated_at": "2026-09-14T19:43:11.648610+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/60394906",
   "repo": "matteobett96-design/git-sweaty",
