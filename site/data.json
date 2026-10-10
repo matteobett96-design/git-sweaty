@@ -12277,6 +12277,15 @@
       "year": 2026
     },
     {
+      "date": "2026-10-06",
+      "hour": 18,
+      "name": "Pedalata serale",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20526908818",
+      "year": 2026
+    },
+    {
       "date": "2026-10-07",
       "hour": 18,
       "name": "Evening Weight Training",
@@ -12301,6 +12310,15 @@
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/20517472788",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-10",
+      "hour": 10,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20524976080",
       "year": 2026
     }
   ],
@@ -22771,6 +22789,15 @@
           "distance": 12487.4,
           "elevation_gain": 533.0,
           "moving_time": 2786.0
+        },
+        "2026-10-06": {
+          "activity_ids": [
+            "20526908818"
+          ],
+          "count": 1,
+          "distance": 12422.9,
+          "elevation_gain": 531.7,
+          "moving_time": 2938.0
         }
       },
       "Run": {
@@ -23449,6 +23476,15 @@
           "distance": 10019.6,
           "elevation_gain": 40.0,
           "moving_time": 3036.0
+        },
+        "2026-10-10": {
+          "activity_ids": [
+            "20524976080"
+          ],
+          "count": 1,
+          "distance": 12017.6,
+          "elevation_gain": 44.0,
+          "moving_time": 3740.0
         }
       },
       "Walk": {
@@ -24413,7 +24449,7 @@
       }
     }
   },
-  "generated_at": "2026-10-09T19:58:59.884186+00:00",
+  "generated_at": "2026-10-10T19:06:34.281827+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/60394906",
   "repo": "matteobett96-design/git-sweaty",
