@@ -17808,5 +17808,31 @@
     "start_date_local": "2026-10-11T10:19:32Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-13",
+    "distance": 12489.7,
+    "elevation_gain": 530.7,
+    "id": "20584044128",
+    "moving_time": 2841.0,
+    "name": "Pedalata pomeridiana",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-13T17:59:36Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-14",
+    "distance": 8022.6,
+    "elevation_gain": 40.0,
+    "id": "20584056428",
+    "moving_time": 2377.0,
+    "name": "Corsa pomeridiana",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-14T17:39:04Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
