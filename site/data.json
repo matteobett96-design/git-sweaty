@@ -12347,6 +12347,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20584056428",
       "year": 2026
+    },
+    {
+      "date": "2026-10-15",
+      "hour": 18,
+      "name": "Evening Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20599016600",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -24499,11 +24508,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3514.0
+        },
+        "2026-10-15": {
+          "activity_ids": [
+            "20599016600"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5939.0
         }
       }
     }
   },
-  "generated_at": "2026-10-14T19:08:58.120259+00:00",
+  "generated_at": "2026-10-15T18:51:13.799989+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/60394906",
   "repo": "matteobett96-design/git-sweaty",
