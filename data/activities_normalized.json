@@ -17847,5 +17847,18 @@
     "start_date_local": "2026-10-15T18:08:02Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-16",
+    "distance": 10015.8,
+    "elevation_gain": 35.0,
+    "id": "20610871760",
+    "moving_time": 2874.0,
+    "name": "Corsa pomeridiana",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-16T17:46:02Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
