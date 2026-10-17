@@ -17810,6 +17810,19 @@
     "year": 2026
   },
   {
+    "date": "2026-10-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20620186370",
+    "moving_time": 5287.0,
+    "name": "Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-12T18:11:07Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
     "date": "2026-10-13",
     "distance": 12489.7,
     "elevation_gain": 530.7,
@@ -17858,6 +17871,19 @@
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-10-16T17:46:02Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-17",
+    "distance": 12017.6,
+    "elevation_gain": 137.0,
+    "id": "20618373702",
+    "moving_time": 3941.0,
+    "name": "Corsa mattutina",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-17T10:25:22Z",
     "type": "Run",
     "year": 2026
   }
