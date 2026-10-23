@@ -12410,6 +12410,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20676990878",
       "year": 2026
+    },
+    {
+      "date": "2026-10-22",
+      "hour": 18,
+      "name": "Allenamento con i pesi serale",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20693141154",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -24625,11 +24634,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5002.0
+        },
+        "2026-10-22": {
+          "activity_ids": [
+            "20693141154"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3191.0
         }
       }
     }
   },
-  "generated_at": "2026-10-22T19:01:49.957012+00:00",
+  "generated_at": "2026-10-23T18:51:43.206967+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/60394906",
   "repo": "matteobett96-design/git-sweaty",
