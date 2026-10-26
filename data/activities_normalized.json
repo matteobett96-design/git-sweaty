@@ -17964,5 +17964,18 @@
     "start_date_local": "2026-10-24T10:20:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 7011.1,
+    "elevation_gain": 154.0,
+    "id": "20740520919",
+    "moving_time": 2165.0,
+    "name": "Corsa serale",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-26T18:25:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
