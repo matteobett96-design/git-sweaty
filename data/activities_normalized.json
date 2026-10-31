@@ -18029,5 +18029,18 @@
     "start_date_local": "2026-10-30T17:57:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20807442455",
+    "moving_time": 5480.0,
+    "name": "Allenamento con i pesi pomeridiano",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-31T15:45:30Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

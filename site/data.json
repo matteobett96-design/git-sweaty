@@ -12482,6 +12482,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20793990385",
       "year": 2026
+    },
+    {
+      "date": "2026-10-31",
+      "hour": 15,
+      "name": "Allenamento con i pesi pomeridiano",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20807442455",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -24769,11 +24778,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5299.0
+        },
+        "2026-10-31": {
+          "activity_ids": [
+            "20807442455"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5480.0
         }
       }
     }
   },
-  "generated_at": "2026-10-30T19:49:57.592793+00:00",
+  "generated_at": "2026-10-31T19:02:27.336776+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/60394906",
   "repo": "matteobett96-design/git-sweaty",
