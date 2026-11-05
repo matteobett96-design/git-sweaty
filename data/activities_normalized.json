@@ -18081,5 +18081,31 @@
     "start_date_local": "2026-11-03T17:54:11Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20862247626",
+    "moving_time": 3815.0,
+    "name": "HIIT serale",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-11-04T18:28:32Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-05",
+    "distance": 8018.0,
+    "elevation_gain": 35.0,
+    "id": "20872838872",
+    "moving_time": 2521.0,
+    "name": "Corsa serale",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-05T18:05:48Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -12518,6 +12518,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20845793018",
       "year": 2026
+    },
+    {
+      "date": "2026-11-04",
+      "hour": 18,
+      "name": "HIIT serale",
+      "subtype": "HighIntensityIntervalTraining",
+      "type": "HighIntensityIntervalTraining",
+      "url": "https://www.strava.com/activities/20862247626",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-05",
+      "hour": 18,
+      "name": "Corsa serale",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20872838872",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -22556,6 +22574,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4400.0
+        },
+        "2026-11-04": {
+          "activity_ids": [
+            "20862247626"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3815.0
         }
       },
       "Hike": {
@@ -23800,6 +23827,15 @@
           "distance": 10263.8,
           "elevation_gain": 44.0,
           "moving_time": 3299.0
+        },
+        "2026-11-05": {
+          "activity_ids": [
+            "20872838872"
+          ],
+          "count": 1,
+          "distance": 8018.0,
+          "elevation_gain": 35.0,
+          "moving_time": 2521.0
         }
       },
       "Walk": {
@@ -24845,7 +24881,7 @@
       }
     }
   },
-  "generated_at": "2026-11-04T21:01:54.167179+00:00",
+  "generated_at": "2026-11-05T21:18:54.206206+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/60394906",
   "repo": "matteobett96-design/git-sweaty",
