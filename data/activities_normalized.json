@@ -18107,5 +18107,31 @@
     "start_date_local": "2026-11-05T18:05:48Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20886979621",
+    "moving_time": 4853.0,
+    "name": "Allenamento con i pesi serale",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-06T18:18:16Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-07",
+    "distance": 8132.8,
+    "elevation_gain": 174.0,
+    "id": "20896420671",
+    "moving_time": 2518.0,
+    "name": "Corsa pomeridiana",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-07T15:19:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
