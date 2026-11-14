@@ -18185,5 +18185,18 @@
     "start_date_local": "2026-11-13T17:49:07Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 16157.8,
+    "elevation_gain": 48.0,
+    "id": "20982364431",
+    "moving_time": 5282.0,
+    "name": "Corsa mattutina",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-14T10:34:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
