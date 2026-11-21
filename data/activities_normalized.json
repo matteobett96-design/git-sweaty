@@ -18250,5 +18250,31 @@
     "start_date_local": "2026-11-19T17:52:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21063534538",
+    "moving_time": 17125.0,
+    "name": "Allenamento con i pesi serale",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-20T18:24:30Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21073848568",
+    "moving_time": 4141.0,
+    "name": "HIIT pomeridiano",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-11-21T16:02:42Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]
