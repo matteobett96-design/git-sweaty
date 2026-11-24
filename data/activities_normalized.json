@@ -18276,5 +18276,18 @@
     "start_date_local": "2026-11-21T16:02:42Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-23",
+    "distance": 12211.5,
+    "elevation_gain": 44.0,
+    "id": "21097587080",
+    "moving_time": 3855.0,
+    "name": "Corsa pomeridiana",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-23T17:48:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
