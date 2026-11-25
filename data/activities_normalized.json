@@ -18302,5 +18302,18 @@
     "start_date_local": "2026-11-24T17:50:39Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21123790646",
+    "moving_time": 4994.0,
+    "name": "Allenamento con i pesi serale",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-25T18:15:10Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
